@@ -1,0 +1,19 @@
+Filled container:
+Container is store 6 movie:
+Cartoon: year = 1988, name = abcd, type of cartoon = puppet, quotient = 497.0
+Cartoon: year = 1956, name = efghr, type of cartoon = drawn, quotient = 391.2
+Cartoon: year = 2014, name = cartoon0, type of cartoon = plasticine, quotient = 251.75
+Cartoon: year = 1934, name = none, type of cartoon = drawn, quotient = 483.5
+Cartoon: year = 2018, name = cartoondefault, type of cartoon = puppet, quotient = 144.14285714285714
+Cartoon: year = 1998, name = best, type of cartoon = plasticine, quotient = 499.5
+Summa of Quotients  = 2267.092857142857
+Average quotient  = 377.8488095238095
+
+Changed container:
+Container is store 4 movie:
+Cartoon: year = 1988, name = abcd, type of cartoon = puppet, quotient = 497.0
+Cartoon: year = 1956, name = efghr, type of cartoon = drawn, quotient = 391.2
+Cartoon: year = 1934, name = none, type of cartoon = drawn, quotient = 483.5
+Cartoon: year = 1998, name = best, type of cartoon = plasticine, quotient = 499.5
+Summa of Quotients  = 1871.2
+Average quotient  = 467.8

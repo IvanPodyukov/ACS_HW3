@@ -1,0 +1,27 @@
+Filled container:
+Container is store 11 movie:
+Fiction: year = 1976, name = jfjke, producer = jejj, quotient = 395.2
+Cartoon: year = 2022, name = eikdffk, type of cartoon = puppet, quotient = 288.85714285714283
+Science: year = 1973, name = fjfjj, length of movie in minutes = 45, quotient = 394.6
+Cartoon: year = 2018, name = cartoondefault, type of cartoon = puppet, quotient = 144.14285714285714
+Fiction: year = 1998, name = best, producer = 3, quotient = 499.5
+Cartoon: year = 1988, name = abrd, type of cartoon = puppet, quotient = 497.0
+Cartoon: year = 1956, name = uiko, type of cartoon = plasticine, quotient = 489.0
+Science: year = 2004, name = science0, length of movie in minutes = 33, quotient = 250.5
+Science: year = 1967, name = none, length of movie in minutes = 67, quotient = 491.75
+Science: year = 2018, name = space, length of movie in minutes = 28, quotient = 403.6
+Fiction: year = 1966, name = bestfiction, producer = bestproducer, quotient = 178.72727272727272
+Summa of Quotients  = 4032.8772727272726
+Average quotient  = 366.62520661157026
+
+Changed container:
+Container is store 7 movie:
+Fiction: year = 1976, name = jfjke, producer = jejj, quotient = 395.2
+Science: year = 1973, name = fjfjj, length of movie in minutes = 45, quotient = 394.6
+Fiction: year = 1998, name = best, producer = 3, quotient = 499.5
+Cartoon: year = 1988, name = abrd, type of cartoon = puppet, quotient = 497.0
+Cartoon: year = 1956, name = uiko, type of cartoon = plasticine, quotient = 489.0
+Science: year = 1967, name = none, length of movie in minutes = 67, quotient = 491.75
+Science: year = 2018, name = space, length of movie in minutes = 28, quotient = 403.6
+Summa of Quotients  = 3170.65
+Average quotient  = 452.95

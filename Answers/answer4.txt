@@ -1,0 +1,21 @@
+Filled container:
+Container is store 8 movie:
+Cartoon: year = 1945, name = jehjfj, type of cartoon = puppet, quotient = 324.1666666666667
+Science: year = 2000, name = rifj, length of movie in minutes = 74, quotient = 500.0
+Cartoon: year = 1949, name = hfhgfhgh, type of cartoon = drawn, quotient = 243.625
+Science: year = 2021, name = fkj, length of movie in minutes = 128, quotient = 673.6666666666666
+Fiction: year = 1972, name = huueJfj, producer = Ivan, quotient = 281.7142857142857
+Cartoon: year = 1989, name = poool, type of cartoon = plasticine, quotient = 397.8
+Cartoon: year = 1973, name = iowoiwkl, type of cartoon = plasticine, quotient = 246.625
+Fiction: year = 1987, name = Hell, producer = John, quotient = 496.75
+Summa of Quotients  = 3164.3476190476194
+Average quotient  = 395.54345238095243
+
+Changed container:
+Container is store 4 movie:
+Science: year = 2000, name = rifj, length of movie in minutes = 74, quotient = 500.0
+Science: year = 2021, name = fkj, length of movie in minutes = 128, quotient = 673.6666666666666
+Cartoon: year = 1989, name = poool, type of cartoon = plasticine, quotient = 397.8
+Fiction: year = 1987, name = Hell, producer = John, quotient = 496.75
+Summa of Quotients  = 2068.2166666666662
+Average quotient  = 517.0541666666666

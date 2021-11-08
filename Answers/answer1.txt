@@ -1,0 +1,14 @@
+Filled container:
+Container is store 3 movie:
+Fiction: year = 2012, name = film1, producer = producer1, quotient = 402.4
+Science: year = 2015, name = film2, length of movie in minutes = 68, quotient = 403.0
+Cartoon: year = 1950, name = film3, type of cartoon = puppet, quotient = 390.0
+Summa of Quotients  = 1195.4
+Average quotient  = 398.4666666666667
+
+Changed container:
+Container is store 2 movie:
+Fiction: year = 2012, name = film1, producer = producer1, quotient = 402.4
+Science: year = 2015, name = film2, length of movie in minutes = 68, quotient = 403.0
+Summa of Quotients  = 805.4
+Average quotient  = 402.7

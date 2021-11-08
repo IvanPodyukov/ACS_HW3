@@ -1,0 +1,17 @@
+Filled container:
+Container is store 5 movie:
+Cartoon: year = 1987, name = cartoon1, type of cartoon = plasticine, quotient = 248.375
+Science: year = 2021, name = science1, length of movie in minutes = 89, quotient = 252.625
+Fiction: year = 2005, name = fiction1, producer = producer1, quotient = 250.625
+Science: year = 1932, name = science2, length of movie in minutes = 35, quotient = 241.5
+Cartoon: year = 1978, name = cartoon2, type of cartoon = puppet, quotient = 247.25
+Summa of Quotients  = 1240.375
+Average quotient  = 248.075
+
+Changed container:
+Container is store 3 movie:
+Cartoon: year = 1987, name = cartoon1, type of cartoon = plasticine, quotient = 248.375
+Science: year = 2021, name = science1, length of movie in minutes = 89, quotient = 252.625
+Fiction: year = 2005, name = fiction1, producer = producer1, quotient = 250.625
+Summa of Quotients  = 751.625
+Average quotient  = 250.54166666666666
